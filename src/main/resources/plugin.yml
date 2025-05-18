@@ -1,0 +1,9 @@
+name: OP_Password
+version: 1.1.4.5.1.4
+main: org.ker.oP_Password.OP_Password
+api-version: 1.13
+commands:
+  giveop:
+    description: 通过指令给予玩家管理！
+  deop:
+    description: OP撤回了一个管理（确信
