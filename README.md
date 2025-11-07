@@ -2,7 +2,7 @@
 *tags:*```OP Minecraft JAVA Plugins 1.18~1.21.x```
 
 [![https://img.shields.io/npm/l/vue.svg](https://img.shields.io/npm/l/vue.svg)]()
-[![github](https://img.shields.io/badge/github-AsZhangKer-brightgreen.svg)](https://github.com/snowdreams1006)
+[![github](https://img.shields.io/badge/github-AsZhangKer-brightgreen.svg)](https://github.com/AsZhangker)
 ## 功能&版本
 此插件的功能：
 - 1、让知道密码的玩家可以不用进入后台直接进行OP、DEOP操作等。
